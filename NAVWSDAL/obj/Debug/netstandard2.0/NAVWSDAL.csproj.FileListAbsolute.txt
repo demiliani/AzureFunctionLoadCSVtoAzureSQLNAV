@@ -1,0 +1,9 @@
+C:\STEFANO\AzureFunctionLoadCSVtoAzureSQL\NAVWSDAL\bin\Debug\netstandard2.0\NAVWSDAL.deps.json
+C:\STEFANO\AzureFunctionLoadCSVtoAzureSQL\NAVWSDAL\bin\Debug\netstandard2.0\NAVWSDAL.dll
+C:\STEFANO\AzureFunctionLoadCSVtoAzureSQL\NAVWSDAL\bin\Debug\netstandard2.0\NAVWSDAL.pdb
+C:\STEFANO\AzureFunctionLoadCSVtoAzureSQL\NAVWSDAL\obj\Debug\netstandard2.0\NAVWSDAL.csprojResolveAssemblyReference.cache
+C:\STEFANO\AzureFunctionLoadCSVtoAzureSQL\NAVWSDAL\obj\Debug\netstandard2.0\NAVWSDAL.csproj.CoreCompileInputs.cache
+C:\STEFANO\AzureFunctionLoadCSVtoAzureSQL\NAVWSDAL\obj\Debug\netstandard2.0\NAVWSDAL.AssemblyInfoInputs.cache
+C:\STEFANO\AzureFunctionLoadCSVtoAzureSQL\NAVWSDAL\obj\Debug\netstandard2.0\NAVWSDAL.AssemblyInfo.cs
+C:\STEFANO\AzureFunctionLoadCSVtoAzureSQL\NAVWSDAL\obj\Debug\netstandard2.0\NAVWSDAL.dll
+C:\STEFANO\AzureFunctionLoadCSVtoAzureSQL\NAVWSDAL\obj\Debug\netstandard2.0\NAVWSDAL.pdb
